@@ -1,3 +1,7 @@
+body{
+  background-color: #f4f4f4;
+}
+
 .navbar-brand{
 	font-family: 'Cuprum', sans-serif;
 }
@@ -20,6 +24,7 @@ header{
   height:32px;
   margin-top: 15%;
   margin-bottom: 20%;
+  margin-left: 20%;
 }
  
 #txtBusca{
