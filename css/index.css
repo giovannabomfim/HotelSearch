@@ -1,0 +1,63 @@
+.navbar-brand{
+	font-family: 'Cuprum', sans-serif;
+}
+
+nav ul li a{
+	color: #FFF !important;
+}
+
+nav ul li a:hover{
+	color: #708090 !important;
+}
+
+header{
+	margin-bottom: 60px !important;
+}
+
+#divBusca{
+  border:solid 1px #5F9EA0;
+  width:700px;
+  height:32px;
+  margin-top: 15%;
+  margin-bottom: 20%;
+}
+ 
+#txtBusca{
+  float:left;
+  background-color:transparent;
+  padding-left:5px; 
+  font-size:18px;
+  border:none;
+  height:30px;
+  width:627px;
+}
+ 
+#btnBusca{
+  border:none;
+  float:right;
+  height:30px;
+  width:70px;
+  font-weight:bold;
+  color: white;
+  background:#114f77;
+}
+
+footer{
+    color: #dbdbdb; 
+    font-family: 'Encode Sans Condensed', sans-serif;
+    font-size: 85%; 
+    text-align: center;
+    text-transform: capitalize;
+    background-color: #50595e;
+    margin-top: 5%;
+    height: 100px; 
+}
+
+footer a{
+  text-decoration: none;
+  color: #dbdbdb;
+}
+
+.content {
+  width: 100%;
+}
